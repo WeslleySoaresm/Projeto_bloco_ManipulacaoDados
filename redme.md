@@ -1,6 +1,3 @@
-Perfeito, Weslley! Aqui está o `README.md` completo e atualizado com o novo comando de atualização de ganhos para eleitores da área de TI (etapa 6), o logo do Python e o diagrama de fluxo:
-
----
 
 # 📊 Projeto de Análise de Eleitores com Pandas e MySQL
 
