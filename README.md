@@ -1,7 +1,15 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Logótipo do Python" width="200"/>
+</div>
 
 # 📊 Projeto de Análise de Eleitores com Pandas e MySQL
 
-![Python Logo](https://brandslogos.com/wp-content/uploads/images/large/python-logo.png)  
+![Status](https://img.shields.io/badge/status-Completo-green.svg)
+![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+
+
+
 *Análise de dados com Python, Pandas e MySQL*
 
 Este projeto tem como objetivo importar, armazenar e consultar dados de eleitores a partir de uma planilha Excel utilizando Python, Pandas e MySQL. Ele demonstra como integrar diferentes tecnologias para realizar análises estruturadas e consultas SQL diretamente em DataFrames.
