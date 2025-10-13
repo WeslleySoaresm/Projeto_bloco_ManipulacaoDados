@@ -1,0 +1,27 @@
+# --- 3. Inserção dos dados na tabela 'eleitores' ---
+def inserir_dados_tabela(cursor, cnx, df):
+    for _, col in df.iterrows():
+        # Insere os dados na tabela 'eleitores'
+        cursor.execute(
+            ''' 
+            INSERT INTO eleitores (`ID Eleitor`, `Nome`, `Profissao`, `Área`, `Ganhos`, `Data da Início`, `Chefe de Sessão`) VALUES (%s, %s, %s, %s, %s, %s, %s)
+        ''',
+    (
+        col["ID Eleitor"],
+        col["Nome"],
+        col["Profissao"], 
+        col["Área"], 
+        col["Ganhos"], 
+        col["Data da Início"],
+        col["Chefe de Sessão"]
+    )) # Insere os dados na tabela 'eleitores'
+
+    try:
+        cnx.commit() # Confirma as mudanças no banco de dados
+    except _mysql_connector.Error as err:
+     print(f"Erro ao inserir dados: {err}")
+    cnx.rollback()
+
+    cursor.close() # Fecha o cursor
+    cnx.close() # Fecha a conexão com o banco de dados
+    print("Dados inseridos com sucesso!")
