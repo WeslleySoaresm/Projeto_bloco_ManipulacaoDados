@@ -46,14 +46,13 @@ A planilha `dados_para_manipulacao.xlsx` contém os seguintes campos na aba `Ele
 ---
 
 
-
 # 📈 Fluxo de Execução do Projeto de ETL e Análise de Dados
 
 Este documento descreve o fluxo de trabalho do projeto, que engloba a extração de dados de um arquivo Excel, o carregamento em um banco de dados MySQL e a posterior análise utilizando Pandas.
 
 ## 📊 Diagrama de Fluxo do Programa (Mermaid)
 
-
+```mermaid
 graph TD
     %% Define os nós principais do fluxo (Esquerda)
     A[Leitura dos dados do Excel] --> B;
@@ -73,8 +72,7 @@ graph TD
     style D fill:#DDEBF7,stroke:#2F4F4F,stroke-width:2px
     style E fill:#E6F7E6,stroke:#3C763D,stroke-width:2px
     style F fill:#FEECEB,stroke:#A94442,stroke-width:2px
-
-
+```
 
 
 ## 🛠️ Etapas do Projeto
