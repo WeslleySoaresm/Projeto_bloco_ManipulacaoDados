@@ -53,7 +53,7 @@ Este documento descreve o fluxo de trabalho do projeto, que engloba a extração
 
 ## 📊 Diagrama de Fluxo do Programa (Mermaid)
 
-```mermaid
+
 graph TD
     %% Define os nós principais do fluxo (Esquerda)
     A[Leitura dos dados do Excel] --> B;
@@ -75,7 +75,7 @@ graph TD
     style F fill:#FEECEB,stroke:#A94442,stroke-width:2px
 
 
----
+
 
 ## 🛠️ Etapas do Projeto
 
