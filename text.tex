@@ -1,0 +1,75 @@
+
+
+## 🧪 Exercícios com instruções detalhadas
+
+### 1. 🔁 Inverter um dicionário simples  
+**Objetivo:** Crie um dicionário `{1: 'a', 2: 'b', 3: 'a'}` e inverta os pares.  
+**Use:**  
+- `for chave, valor in dict.items()`  
+- `if valor not in novo_dict`  
+- `append()`  
+
+**Desafio extra:** Agrupe todas as chaves que têm o mesmo valor.
+
+---
+
+### 2. 📁 Salvar o dicionário invertido em JSON  
+**Objetivo:** Pegue o dicionário invertido do exercício 1 e salve em um arquivo `invertido.json`.  
+**Use:**  
+- `import json`  
+- `with open(..., 'w') as f:`  
+- `json.dump()`  
+
+---
+
+### 3. 📖 Ler um dicionário de um arquivo JSON e inverter  
+**Objetivo:** Crie um arquivo `dados.json` com um dicionário simples e leia ele para inverter.  
+**Use:**  
+- `json.load()`  
+- `open(..., 'r')`  
+- Função `invert()`  
+
+---
+
+### 4. 🔄 Reverter o dicionário invertido  
+**Objetivo:** Crie uma função `desinvert()` que recebe o dicionário invertido e reconstrói o original.  
+**Use:**  
+- `for chave, lista in dict.items()`  
+- `for item in lista:`  
+- `novo_dict[item] = chave`  
+
+---
+
+### 5. 🧠 Contar quantas vezes cada valor aparece  
+**Objetivo:** Depois de inverter, conte quantas chaves estão em cada lista.  
+**Use:**  
+- `len(lista)`  
+- `print()`  
+
+---
+
+### 6. 🧪 Testar com tipos diferentes  
+**Objetivo:** Teste a função `invert()` com valores como números, strings, booleanos e tuplas.  
+**Use:**  
+- `print(type(valor))`  
+- `try/except` para erros inesperados  
+
+---
+
+### 7. 🧩 Criar uma versão sem listas  
+**Objetivo:** Crie uma função que inverte o dicionário, mas guarda **apenas uma chave por valor** (a última que aparecer).  
+**Use:**  
+- `novo_dict[valor] = chave`  
+- Sem `append()`  
+
+---
+
+### 8. 🧪 Inverter dicionário de alunos e notas  
+**Objetivo:** Dado `{“Ana”: 8.5, “Bruno”: 7.0, “Carlos”: 8.5}`, inverta para saber quais alunos têm a mesma nota.  
+**Use:**  
+- `invert()`  
+- `print()`  
+- `json.dump()` (opcional)
+
+---
+
