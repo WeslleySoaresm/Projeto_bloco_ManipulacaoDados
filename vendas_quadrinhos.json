@@ -1,0 +1,32 @@
+[
+    {
+        "cliente": "Ana",
+        "titulo": "Homem-Aranha: De Volta ao Lar",
+        "quantidade": 3,
+        "valor_unitario": 20.0
+    },
+    {
+        "cliente": "Bruno",
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "quantidade": 2,
+        "valor_unitario": 35.0
+    },
+    {
+        "cliente": "Carlos",
+        "titulo": "Homem-Aranha: De Volta ao Lar",
+        "quantidade": 1,
+        "valor_unitario": 20.0
+    },
+    {
+        "cliente": "Diana",
+        "titulo": "Mulher-Maravilha: Amazonas em Guerra",
+        "quantidade": 4,
+        "valor_unitario": 25.0
+    },
+    {
+        "cliente": "Eduardo",
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "quantidade": 1,
+        "valor_unitario": 35.0
+    }
+]

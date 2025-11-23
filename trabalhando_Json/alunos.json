@@ -1,0 +1,32 @@
+[
+    {
+        "CPF": "11122233344",
+        "nome": "Carla Rocha",
+        "dataNascimento": "1995-01-20"
+    },
+    {
+        "CPF": "22233344455",
+        "nome": "Bruno Lima",
+        "dataNascimento": "1996-03-25"
+    },
+    {
+        "CPF": "33344455566",
+        "nome": "Fernanda Mendes",
+        "dataNascimento": "1997-07-10"
+    },
+    {
+        "CPF": "44455566677",
+        "nome": "Gustavo Silva",
+        "dataNascimento": "1998-09-05"
+    },
+    {
+        "CPF": "55566677788",
+        "nome": "Patricia Soares",
+        "dataNascimento": "1999-12-12"
+    },
+    {
+        "CPF": "11122233344",
+        "nome": "Carla Rocha (Atualizada)",
+        "dataNascimento": "1995-01-21"
+    }
+]

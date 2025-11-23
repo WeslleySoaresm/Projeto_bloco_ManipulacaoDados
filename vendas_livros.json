@@ -1,0 +1,32 @@
+[
+    {
+        "cliente": "Luciana",
+        "titulo": "Dom Casmurro",
+        "quantidade": 2,
+        "preco_unitario": 40.0
+    },
+    {
+        "cliente": "Pedro",
+        "titulo": "O Senhor dos Anéis",
+        "quantidade": 1,
+        "preco_unitario": 150.0
+    },
+    {
+        "cliente": "Mariana",
+        "titulo": "Dom Casmurro",
+        "quantidade": 3,
+        "preco_unitario": 40.0
+    },
+    {
+        "cliente": "Rafael",
+        "titulo": "A Moreninha",
+        "quantidade": 5,
+        "preco_unitario": 30.0
+    },
+    {
+        "cliente": "Alice",
+        "titulo": "O Senhor dos Anéis",
+        "quantidade": 2,
+        "preco_unitario": 150.0
+    }
+]
