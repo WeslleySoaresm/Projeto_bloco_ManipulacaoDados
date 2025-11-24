@@ -37,12 +37,12 @@ with engine.begin() as conn:
     for _, row in df.iterrows():
         conn.execute(
             text("""
-                INSERT INTO academic.aluno (cpf, nome, dataNascimento)
-                VALUES (:cpf, :nome, :dataNascimento)
+                INSERT INTO academic.aluno (cpf, nome, datanascimento)
+                VALUES (:cpf, :nome, :datanascimento)
                 ON CONFLICT (cpf) DO UPDATE
                 SET nome = EXCLUDED.nome,
-                    dataNascimento = EXCLUDED.dataNascimento;
+                    datanascimento = EXCLUDED.datanascimento;
             """),
-            {"cpf": row["CPF"], "nome": row["nome"], "dataNascimento": row["dataNascimento"]}
+            {"cpf": row["CPF"], "nome": row["nome"], "datanascimento": row["datanascimento"]}
         )
 print(f"DADOS INSERIDO COM SUCESSO E ATUALIZADO.")
