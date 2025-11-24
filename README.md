@@ -1,184 +1,188 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Logótipo do Python" width="200"/>
-</div>
-
-# 📊 Projeto de Análise de Eleitores com Pandas e MySQL
-
-![Status](https://img.shields.io/badge/status-Completo-green.svg)
-![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+# 📘 TP4 Projeto de Bloco (2025)
 
 
+## 🇧🇷 Português
 
-*Análise de dados com Python, Pandas e MySQL*
+### 📌 Descrição
 
-Este projeto tem como objetivo importar, armazenar e consultar dados de eleitores a partir de uma planilha Excel utilizando Python, Pandas e MySQL. Ele demonstra como integrar diferentes tecnologias para realizar análises estruturadas e consultas SQL diretamente em DataFrames.
+Este projeto foi desenvolvido como parte do **TP4 – Projeto de Bloco (2025)**.
+O objetivo é manipular dados em um banco de dados **PostgreSQL** utilizando **Python** e **SQLAlchemy**, realizando operações de **UPSERT** (inserção/atualização) e **deleção massiva** a partir de arquivos JSON.
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+### 🎯 Orientações do TP4
 
-- Python 3.x  
-- Pandas  
-- SQLAlchemy  
-- PyMySQL  
-- MySQL Connector  
-- Tabulate  
-- MySQL Server  
-- Microsoft Excel  
+1. Criar um arquivo JSON com orientação a registros para carga massiva (inserção ou atualização) de uma tabela no PostgreSQL.
+2. Criar um arquivo JSON com orientação a registros para deleção massiva.
+3. Implementar código em Python usando SQLAlchemy para realizar UPSERT (INSERT + UPDATE).
+4. Validar o sucesso da inserção/atualização.
+5. Repetir o processo para deleção massiva.
+6. Validar o sucesso da deleção.
 
 ---
 
-## 📁 Estrutura dos Dados
+### ⚙️ Estrutura do Projeto
 
-A planilha `dados_para_manipulacao.xlsx` contém os seguintes campos na aba `Eleitores`:
-
-| Coluna             | Descrição                          |
-|--------------------|-------------------------------------|
-| ID Eleitor         | Identificador único do eleitor      |
-| Nome               | Nome completo do eleitor            |
-| Profissão          | Profissão atual                     |
-| Área               | Área de atuação (ex: TI, Saúde)     |
-| Ganhos             | Renda mensal                        |
-| Data da Início     | Data de início na função            |
-| Chefe de Sessão    | Booleano indicando se é chefe       |
+* **`alunos.json`** → arquivo com registros para inserção/atualização.
+* **`alunos_deletar.json`** → arquivo com registros para deleção.
+* **`db_conect.py`** → módulo de conexão ao banco e funções (`upsert_aluno`, `delete_alunos`).
+* **`main.py`** → script principal que chama as funções e executa as operações.
 
 ---
 
+### 🚀 Como Executar
 
-# 📈 Fluxo de Execução do Projeto de ETL e Análise de Dados
+1. Configure o banco PostgreSQL e crie a tabela `academic.aluno`.
+2. Ajuste as credenciais no dicionário `DB` em `db_conect.py`.
+3. Crie os arquivos `alunos.json` e `alunos_deletar.json`.
+4. Execute o script principal:
 
-Este documento descreve o fluxo de trabalho do projeto, que engloba a extração de dados de um arquivo Excel, o carregamento em um banco de dados MySQL e a posterior análise utilizando Pandas.
-
-## 📊 Diagrama de Fluxo do Programa (Mermaid)
-
-```mermaid
-graph TD
-    %% Define os nós principais do fluxo (Esquerda)
-    A[Leitura dos dados do Excel] --> B;
-    B[Pré-processamento e renomeação de colunas] --> C;
-    C[Conexão com o banco de dados MySQL] --> D;
-    D[Inserção dos dados na tabela 'Eleitores'] --> E;
-    E[Consultas SQL usando Pandas]
-    
-    %% Define o nó de saída e o conecta ao final da análise
-    E --> F;
-    F[Exibição dos resultados com tabulate];
-    
-    %% Estilização (Opcional, para visual mais limpo)
-    style A fill:#D4EDF7,stroke:#31708F,stroke-width:2px
-    style B fill:#F5F5DC,stroke:#B8860B,stroke-width:2px
-    style C fill:#DDEBF7,stroke:#2F4F4F,stroke-width:2px
-    style D fill:#DDEBF7,stroke:#2F4F4F,stroke-width:2px
-    style E fill:#E6F7E6,stroke:#3C763D,stroke-width:2px
-    style F fill:#FEECEB,stroke:#A94442,stroke-width:2px
+```bash
+python3 main.py
 ```
 
+5. Verifique no banco se os registros foram inseridos/atualizados ou deletados.
 
-## 🛠️ Etapas do Projeto
+---
 
-### 1. 📥 Leitura dos Dados
+### 📂 Exemplo de JSON
 
-```python
-df = pd.read_excel("dados_para_manipulacao.xlsx", sheet_name="Eleitores")
+**Inserção/Atualização (`alunos.json`):**
+
+```json
+[
+  { "cpf": "11111111111", "nome": "Ana Silva", "datanascimento": "2001-05-10" },
+  { "cpf": "22222222222", "nome": "Carlos Souza", "datanascimento": "1999-12-01" }
+]
 ```
 
-### 2. 🧹 Pré-processamento
+**Deleção (`alunos_deletar.json`):**
 
-```python
-df = df.rename(columns={
-    'ID Eleitor': 'id_eleitor',
-    'Nome': 'nome',
-    'Profissao': 'profissao',
-    'Área': 'area',
-    'Ganhos': 'ganhos',
-    'Data da Início': 'data_inicio',
-    'Chefe de Sessão': 'chefe_sessao'
-})
-```
-
-### 3. 🗄️ Inserção no Banco de Dados
-
-```python
-engine = create_engine("mysql+pymysql://root:wes101520@localhost:3306/empresa-b")
-df.to_sql('Eleitores', con=engine, if_exists='append', index=False)
+```json
+[
+  { "cpf": "11111111111" },
+  { "cpf": "22222222222" }
+]
 ```
 
 ---
 
-## 🔍 Consultas Realizadas
+### 🔄 Fluxo do Projeto
 
-1. **Todos os eleitores:**
-   ```sql
-   SELECT * FROM Eleitores
-   ```
+```
++-------------------+        +------------------+        +-------------------+        +------------------+
+|   alunos.json     | -----> | Pandas DataFrame | -----> |  upsert_aluno()   | -----> |  PostgreSQL DB   |
+| (inserção/atual.) |        |       (df)       |        | (SQLAlchemy UPSERT)|       | academic.aluno   |
++-------------------+        +------------------+        +-------------------+        +------------------+
 
-2. **Eleitores que trabalham com TI:**
-   ```sql
-   SELECT * FROM Eleitores WHERE area = 'TI'
-   ```
-
-3. **Eleitores com ganhos superiores a R$ 5.000:**
-   ```sql
-   SELECT * FROM Eleitores WHERE ganhos > 5000
-   ```
-
-4. **Nome e data de início após 01/01/2023:**
-   ```sql
-   SELECT nome, data_inicio FROM Eleitores WHERE data_inicio > '2023-01-01'
-   ```
-
-5. **Total de eleitores por área e média de ganhos:**
-   ```sql
-   SELECT area, COUNT(*) AS total_eleitores, AVG(ganhos) AS media_ganhos FROM Eleitores GROUP BY area
-   ```
-
-6. **Acréscimo de 10% nos ganhos dos eleitores da área de TI com IDs 100 e 200:**
-
-```python
-from sqlalchemy.sql import text
-
-df = pd.read_sql("SELECT * FROM `empresa-b`.Eleitores WHERE id_eleitor IN (100, 200)", con=engine)
-df["ganhos"] *= 1.10
-
-with engine.connect() as connection:
-    for index, row in df.iterrows():
-        update_query = text("""
-            UPDATE Eleitores SET ganhos = :ganhos WHERE id_eleitor = :id_eleitor
-        """)
-        connection.execute(update_query, {"ganhos": row["ganhos"], "id_eleitor": row["id_eleitor"]})
-        print(f"Atualizado ganhos do eleitor ID {row['id_eleitor']} para {row['ganhos']:.2f}")
-    connection.commit()
-
-print("Ganhos atualizados com sucesso para eleitores 100 e 200, via dataframe.")
++--------------------+       +------------------+        +-------------------+        +------------------+
+| alunos_deletar.json| -----> | Pandas DataFrame | -----> | delete_alunos()   | -----> |  PostgreSQL DB   |
+| (deleção massiva)  |        |    (df_delete)   |        | (SQLAlchemy DELETE)|       | academic.aluno   |
++--------------------+       +------------------+        +-------------------+        +------------------+
 ```
 
 ---
 
-## 🧪 Execução Local
+### 📜 Exemplo de Log de Execução (Python)
 
-1. Certifique-se de que o MySQL está rodando e a base `empresa-b` foi criada.  
-2. Instale as dependências:
-   ```bash
-   pip install pandas sqlalchemy pymysql tabulate openpyxl mysql-connector-python
-   ```
-3. Execute o script Python principal.
-
----
-
-## ✅ Resultados Esperados
-
-- Dados inseridos com sucesso no banco de dados.  
-- Consultas SQL exibidas em formato de tabela no terminal.  
-- Análises como média de ganhos por área e filtros por profissão e data.  
-- Atualização de ganhos para eleitores específicos via DataFrame.
+```bash
+weslleysoares@Mac TP4-PROJETO-BLOCO % python3 main.py
+conexão bem sucedida.
+UPSERT CONCLUIDO COM SUCESSO !
+Registros deletados: 2
+Deletado com Sucesso
+```
 
 ---
 
-## 📌 Observações
+## 🇺🇸 English
 
-- Certifique-se de que o arquivo Excel esteja no mesmo diretório do script.  
-- As credenciais do banco de dados estão fixas no código para fins de demonstração. Em produção, utilize variáveis de ambiente.
+### 📌 Description
+
+This project was developed as part of **TP4 – Block Project (2025)**.
+The goal is to manipulate data in a **PostgreSQL** database using **Python** and **SQLAlchemy**, performing **UPSERT** (insert/update) and **mass deletion** operations from JSON files.
 
 ---
 
+### 🎯 TP4 Guidelines
+
+1. Create a JSON file with record-oriented structure for bulk insert/update.
+2. Create a JSON file for bulk deletion.
+3. Implement Python code using SQLAlchemy to perform an UPSERT (INSERT + UPDATE).
+4. Validate successful insertion/update.
+5. Perform the mass deletion process.
+6. Validate the deletion success.
+
+---
+
+### ⚙️ Project Structure
+
+* **`alunos.json`** → file with records for insert/update.
+* **`alunos_deletar.json`** → file with records for deletion.
+* **`db_conect.py`** → database connection and functions (`upsert_aluno`, `delete_alunos`).
+* **`main.py`** → main script that executes the operations.
+
+---
+
+### 🚀 How to Run
+
+1. Set up PostgreSQL and create the `academic.aluno` table.
+2. Adjust credentials in the `DB` dictionary inside `db_conect.py`.
+3. Create the files `alunos.json` and `alunos_deletar.json`.
+4. Execute:
+
+```bash
+python3 main.py
+```
+
+5. Check the database to confirm the records were inserted/updated or deleted.
+
+---
+
+### 📂 JSON Example
+
+**Insert/Update (`alunos.json`):**
+
+```json
+[
+  { "cpf": "11111111111", "nome": "Ana Silva", "datanascimento": "2001-05-10" },
+  { "cpf": "22222222222", "nome": "Carlos Souza", "datanascimento": "1999-12-01" }
+]
+```
+
+**Deletion (`alunos_deletar.json`):**
+
+```json
+[
+  { "cpf": "11111111111" },
+  { "cpf": "22222222222" }
+]
+```
+
+---
+
+### 🔄 Project Flow
+
+```
++-------------------+        +------------------+        +-------------------+        +------------------+
+|   alunos.json     | -----> | Pandas DataFrame | -----> |  upsert_aluno()   | -----> |  PostgreSQL DB   |
+| (insert/update)   |        |       (df)       |        | (SQLAlchemy UPSERT)|       | academic.aluno   |
++-------------------+        +------------------+        +-------------------+        +------------------+
+
++--------------------+       +------------------+        +-------------------+        +------------------+
+| alunos_deletar.json| -----> | Pandas DataFrame | -----> | delete_alunos()   | -----> |  PostgreSQL DB   |
+| (mass deletion)    |        |    (df_delete)   |        | (SQLAlchemy DELETE)|       | academic.aluno   |
++--------------------+       +------------------+        +-------------------+        +------------------+
+```
+
+---
+
+### 📜 Example Python Execution Log
+
+```bash
+weslleysoares@Mac TP4-PROJETO-BLOCO % python3 main.py
+connection successful.
+UPSERT COMPLETED SUCCESSFULLY!
+Deleted records: 2
+Deletion Successful
+```
