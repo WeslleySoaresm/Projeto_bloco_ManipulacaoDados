@@ -1,0 +1,12 @@
+[
+  {
+    "id_curso": 1,
+    "CPF": 12345,
+    "datamatricula": "2023-02-01"
+  },
+  {
+    "id_curso": 2,
+    "CPF": 56789,
+    "datamatricula": "2023-02-15"
+  }
+]

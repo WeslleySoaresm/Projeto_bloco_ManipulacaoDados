@@ -1,3 +1,9 @@
+# Json -> Pandas -> Banco de dados
+#1) Exercício:
+#Crie uma rotina que leia o arquivo aunos.json, carregue.os em uma estrutura de dados do pandas e inseira.os na tabela Alunos do banco de dados.
+#Os alunos que já existerem na tabela deverão, então, ser atulizados.
+
+
 import pandas as pd 
 import json 
 from sqlalchemy import create_engine, text
