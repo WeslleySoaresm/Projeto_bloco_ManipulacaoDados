@@ -1,22 +1,26 @@
 [
-  {
-    "id_curso": 1,
-    "nome": "Administração",
-    "descricao": "Curso de gestão e negócios"
-  },
-  {
-    "id_curso": 2,
-    "nome": "Informatica",
-    "descricao": "Tecnologia e desenvolvimento de sistemas"
-  },
-  {
-    "id_curso": 2,
-    "nome": "Sistemas de Informação",
-    "descricao": "Tecnologia e desenvolvimento de sistemas"
-  },
-  {
-    "id_curso": 3,
-    "nome": "Engenharia de Produção",
-    "descricao": "Processos industriais e otimização"
-  }
+  { "id_curso": 1, "nome": "Administração", "descricao": "Curso de gestão e negócios" },
+  { "id_curso": 2, "nome": "Informatica", "descricao": "Tecnologia e desenvolvimento de sistemas" },
+  { "id_curso": 2, "nome": "Sistemas de Informação", "descricao": "Tecnologia e desenvolvimento de sistemas" },
+  { "id_curso": 3, "nome": "Engenharia de Produção", "descricao": "Processos industriais e otimização" },
+  { "id_curso": 4, "nome": "Direito", "descricao": "Estudo das leis e práticas jurídicas" },
+  { "id_curso": 5, "nome": "Medicina", "descricao": "Formação em saúde e prática clínica" },
+  { "id_curso": 6, "nome": "Enfermagem", "descricao": "Cuidados de saúde e assistência hospitalar" },
+  { "id_curso": 7, "nome": "Psicologia", "descricao": "Estudo do comportamento humano" },
+  { "id_curso": 8, "nome": "Arquitetura", "descricao": "Projetos e construção de edificações" },
+  { "id_curso": 9, "nome": "Engenharia Civil", "descricao": "Construção e infraestrutura" },
+  { "id_curso": 10, "nome": "Engenharia Elétrica", "descricao": "Sistemas elétricos e energia" },
+  { "id_curso": 11, "nome": "Engenharia Mecânica", "descricao": "Máquinas e processos industriais" },
+  { "id_curso": 12, "nome": "Ciência da Computação", "descricao": "Algoritmos, programação e inovação tecnológica" },
+  { "id_curso": 13, "nome": "Marketing", "descricao": "Estratégias de mercado e comunicação" },
+  { "id_curso": 14, "nome": "Contabilidade", "descricao": "Gestão financeira e fiscal" },
+  { "id_curso": 15, "nome": "Pedagogia", "descricao": "Educação e formação de professores" },
+  { "id_curso": 16, "nome": "História", "descricao": "Estudo das civilizações e eventos históricos" },
+  { "id_curso": 17, "nome": "Geografia", "descricao": "Estudo do espaço e sociedade" },
+  { "id_curso": 18, "nome": "Biologia", "descricao": "Ciências da vida e ecossistemas" },
+  { "id_curso": 19, "nome": "Química", "descricao": "Estudo das substâncias e reações químicas" },
+  { "id_curso": 20, "nome": "Administração Pública", "descricao": "Gestão governamental e políticas públicas" },
+  { "id_curso": 1, "nome": "Administração de Empresas", "descricao": "Gestão corporativa e negócios" },
+  { "id_curso": 2, "nome": "TI - Tecnologia da Informação", "descricao": "Infraestrutura e suporte de sistemas" },
+  { "id_curso": 3, "nome": "Engenharia de Produção Industrial", "descricao": "Gestão de processos e qualidade" }
 ]
