@@ -51,3 +51,4 @@ sql_upsert = text(f"""
 with engine.begin() as conn:
     conn.execute(sql_upsert, df.to_dict(orient="records"))
 print("Registro inserido e/ou atulizados com sucesso.")
+

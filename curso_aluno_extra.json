@@ -1,0 +1,5002 @@
+[
+  {
+    "xid_curso": 5,
+    "xid_cpf": "45872678156",
+    "datamatricula": "2023-09-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "08844053450",
+    "datamatricula": "2025-11-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "44521094436",
+    "datamatricula": "2023-10-30"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "67363086987",
+    "datamatricula": "2024-09-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "87213916899",
+    "datamatricula": "2023-11-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "91130207838",
+    "datamatricula": "2024-10-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "56134478122",
+    "datamatricula": "2023-11-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "64197532950",
+    "datamatricula": "2024-05-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "74243206270",
+    "datamatricula": "2025-06-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "82848127883",
+    "datamatricula": "2025-05-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "83595494100",
+    "datamatricula": "2025-08-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "21338599898",
+    "datamatricula": "2024-01-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "11943880917",
+    "datamatricula": "2023-11-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "33115828303",
+    "datamatricula": "2023-10-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "94061983671",
+    "datamatricula": "2025-11-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "18622803217",
+    "datamatricula": "2024-02-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "40672932152",
+    "datamatricula": "2023-03-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "78263706677",
+    "datamatricula": "2023-05-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "55726536445",
+    "datamatricula": "2025-02-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "53955502957",
+    "datamatricula": "2025-10-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "69511358495",
+    "datamatricula": "2025-09-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01730500117",
+    "datamatricula": "2025-12-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "99105139194",
+    "datamatricula": "2024-09-12"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "53972593197",
+    "datamatricula": "2025-12-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "50134866861",
+    "datamatricula": "2025-06-01"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "31644468523",
+    "datamatricula": "2023-05-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "84421476497",
+    "datamatricula": "2024-01-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "90236945771",
+    "datamatricula": "2023-10-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "39592335651",
+    "datamatricula": "2024-06-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "63568390020",
+    "datamatricula": "2025-02-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "00116941445",
+    "datamatricula": "2023-04-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "08996611471",
+    "datamatricula": "2024-11-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "42163611609",
+    "datamatricula": "2025-09-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "86139163545",
+    "datamatricula": "2024-09-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "25506923107",
+    "datamatricula": "2024-06-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "83182645785",
+    "datamatricula": "2023-07-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93926085207",
+    "datamatricula": "2023-03-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "13140203569",
+    "datamatricula": "2023-06-04"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01449285399",
+    "datamatricula": "2025-09-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08935921075",
+    "datamatricula": "2024-10-06"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "98687183097",
+    "datamatricula": "2025-11-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "00779974352",
+    "datamatricula": "2024-05-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "00619234904",
+    "datamatricula": "2024-12-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "74038338486",
+    "datamatricula": "2024-07-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "99911156738",
+    "datamatricula": "2025-04-11"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "12737675447",
+    "datamatricula": "2023-10-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "87351128539",
+    "datamatricula": "2024-02-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "02632499100",
+    "datamatricula": "2023-03-30"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "87089206600",
+    "datamatricula": "2024-09-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "57636703482",
+    "datamatricula": "2023-07-12"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "49980776909",
+    "datamatricula": "2023-06-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "26217971086",
+    "datamatricula": "2024-12-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "55765210990",
+    "datamatricula": "2024-06-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "18019856251",
+    "datamatricula": "2025-08-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "54149755204",
+    "datamatricula": "2023-07-31"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "22891017851",
+    "datamatricula": "2025-02-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "58737377908",
+    "datamatricula": "2023-03-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "39981799011",
+    "datamatricula": "2024-08-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "66353174909",
+    "datamatricula": "2025-10-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "17124971173",
+    "datamatricula": "2023-07-05"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "99551386319",
+    "datamatricula": "2024-01-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "67606426978",
+    "datamatricula": "2024-09-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "39909232395",
+    "datamatricula": "2025-09-26"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "55301140142",
+    "datamatricula": "2023-06-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "93660183970",
+    "datamatricula": "2023-08-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "83934967948",
+    "datamatricula": "2025-05-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "23056081176",
+    "datamatricula": "2024-12-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "99639659787",
+    "datamatricula": "2023-01-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "08678181825",
+    "datamatricula": "2023-08-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "01636137305",
+    "datamatricula": "2024-01-14"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "18253434167",
+    "datamatricula": "2024-08-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "24525873814",
+    "datamatricula": "2025-10-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "84598023956",
+    "datamatricula": "2024-01-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "68148717574",
+    "datamatricula": "2025-02-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "33619304801",
+    "datamatricula": "2023-04-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "84721253760",
+    "datamatricula": "2024-11-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "83684703034",
+    "datamatricula": "2023-01-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "13994701300",
+    "datamatricula": "2025-09-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "89414018532",
+    "datamatricula": "2023-06-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "09946179535",
+    "datamatricula": "2025-04-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "31253655422",
+    "datamatricula": "2023-07-20"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "15196443631",
+    "datamatricula": "2025-03-23"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "87143627865",
+    "datamatricula": "2024-02-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "04519158458",
+    "datamatricula": "2024-01-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "01242362673",
+    "datamatricula": "2024-09-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08986953165",
+    "datamatricula": "2024-09-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "22451040766",
+    "datamatricula": "2023-11-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "39948245406",
+    "datamatricula": "2023-07-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "21823146925",
+    "datamatricula": "2024-10-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "06383819120",
+    "datamatricula": "2023-04-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "17396316404",
+    "datamatricula": "2023-04-12"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "99503551916",
+    "datamatricula": "2023-05-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "21221510508",
+    "datamatricula": "2024-06-07"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "03474492103",
+    "datamatricula": "2023-03-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "25859107741",
+    "datamatricula": "2023-06-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "66013122494",
+    "datamatricula": "2024-06-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "00423897907",
+    "datamatricula": "2024-03-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "73521944273",
+    "datamatricula": "2023-08-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "54650332706",
+    "datamatricula": "2023-04-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "91395717452",
+    "datamatricula": "2024-05-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "72034437356",
+    "datamatricula": "2025-06-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "40799038304",
+    "datamatricula": "2023-09-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "20964125042",
+    "datamatricula": "2023-04-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "71383787773",
+    "datamatricula": "2023-11-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "01631453268",
+    "datamatricula": "2025-01-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "40741581983",
+    "datamatricula": "2025-03-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "15552457645",
+    "datamatricula": "2024-09-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "97958592221",
+    "datamatricula": "2024-03-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43381894985",
+    "datamatricula": "2024-06-27"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "66477824921",
+    "datamatricula": "2023-03-15"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "22937629012",
+    "datamatricula": "2024-09-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "67439609359",
+    "datamatricula": "2023-07-12"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "10015264015",
+    "datamatricula": "2025-09-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "64216078358",
+    "datamatricula": "2025-01-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "66130138990",
+    "datamatricula": "2025-12-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "85491170582",
+    "datamatricula": "2025-01-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "18490041909",
+    "datamatricula": "2025-02-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "74426821247",
+    "datamatricula": "2023-09-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "61198176821",
+    "datamatricula": "2025-04-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "57642568071",
+    "datamatricula": "2023-07-22"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "36926429496",
+    "datamatricula": "2023-06-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "75120524403",
+    "datamatricula": "2025-02-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "85070536151",
+    "datamatricula": "2024-01-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "07399785827",
+    "datamatricula": "2024-10-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "21368688877",
+    "datamatricula": "2024-04-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "91069562671",
+    "datamatricula": "2023-01-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "63557316737",
+    "datamatricula": "2024-11-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "10909428161",
+    "datamatricula": "2025-01-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43060923825",
+    "datamatricula": "2023-02-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "60795463626",
+    "datamatricula": "2024-06-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "23619807158",
+    "datamatricula": "2024-01-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "99943335093",
+    "datamatricula": "2025-09-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "34564986145",
+    "datamatricula": "2024-08-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08877377269",
+    "datamatricula": "2025-06-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "69086968007",
+    "datamatricula": "2024-01-25"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "91759125862",
+    "datamatricula": "2023-03-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "23124475069",
+    "datamatricula": "2025-10-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "81763207583",
+    "datamatricula": "2025-06-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "45223606334",
+    "datamatricula": "2024-05-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56277360448",
+    "datamatricula": "2025-12-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "61965366514",
+    "datamatricula": "2025-01-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "24910881796",
+    "datamatricula": "2025-05-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "39665924112",
+    "datamatricula": "2023-11-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "87424781309",
+    "datamatricula": "2025-05-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "02842881423",
+    "datamatricula": "2023-12-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "69586502993",
+    "datamatricula": "2025-08-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "83467058582",
+    "datamatricula": "2024-03-20"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "86526232837",
+    "datamatricula": "2025-04-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "08520126835",
+    "datamatricula": "2023-12-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "95701200781",
+    "datamatricula": "2024-08-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "57181595434",
+    "datamatricula": "2023-07-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "13297812542",
+    "datamatricula": "2023-02-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "05804237737",
+    "datamatricula": "2024-06-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "87289013999",
+    "datamatricula": "2023-07-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86264912992",
+    "datamatricula": "2023-07-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "47928820523",
+    "datamatricula": "2024-09-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "46387153490",
+    "datamatricula": "2023-09-10"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "07941610835",
+    "datamatricula": "2024-02-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "25857069364",
+    "datamatricula": "2023-03-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "63245012437",
+    "datamatricula": "2025-02-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "33249313396",
+    "datamatricula": "2023-01-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "20464235034",
+    "datamatricula": "2023-03-07"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "93523202946",
+    "datamatricula": "2025-07-24"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01851620868",
+    "datamatricula": "2023-08-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "26504774114",
+    "datamatricula": "2023-10-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "66355735941",
+    "datamatricula": "2025-09-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "77176342389",
+    "datamatricula": "2024-06-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "40388705529",
+    "datamatricula": "2025-12-07"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "21675311893",
+    "datamatricula": "2024-09-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01081258828",
+    "datamatricula": "2023-08-31"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "67448773443",
+    "datamatricula": "2025-09-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "80272032364",
+    "datamatricula": "2023-01-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "41207027494",
+    "datamatricula": "2024-02-10"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "95690987672",
+    "datamatricula": "2023-07-11"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "28806601545",
+    "datamatricula": "2024-07-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "75309469990",
+    "datamatricula": "2023-03-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "56362536568",
+    "datamatricula": "2024-07-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "87938375197",
+    "datamatricula": "2024-03-05"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "27547649731",
+    "datamatricula": "2025-11-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "25879551321",
+    "datamatricula": "2024-09-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51051545708",
+    "datamatricula": "2024-07-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "90064434043",
+    "datamatricula": "2024-11-20"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "63431183504",
+    "datamatricula": "2024-01-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "10352117933",
+    "datamatricula": "2023-08-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "94513039708",
+    "datamatricula": "2025-06-20"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "69373941054",
+    "datamatricula": "2023-10-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "32453786708",
+    "datamatricula": "2023-01-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "49747691628",
+    "datamatricula": "2025-03-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "83260025006",
+    "datamatricula": "2025-02-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "09777320973",
+    "datamatricula": "2025-12-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "95186682829",
+    "datamatricula": "2024-10-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "15358268321",
+    "datamatricula": "2023-12-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "26582843911",
+    "datamatricula": "2023-02-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "79972094208",
+    "datamatricula": "2024-06-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51188656903",
+    "datamatricula": "2023-12-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "41014383803",
+    "datamatricula": "2025-05-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "33821557474",
+    "datamatricula": "2024-08-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "69068838600",
+    "datamatricula": "2025-05-16"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "35027387190",
+    "datamatricula": "2024-06-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "76231821369",
+    "datamatricula": "2023-05-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "63910281683",
+    "datamatricula": "2023-10-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "78524769070",
+    "datamatricula": "2025-02-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "85085194469",
+    "datamatricula": "2025-10-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93055893884",
+    "datamatricula": "2024-06-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "65757665311",
+    "datamatricula": "2023-09-25"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "72241670457",
+    "datamatricula": "2025-09-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "13836970369",
+    "datamatricula": "2023-12-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "31183497299",
+    "datamatricula": "2024-07-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "33600707893",
+    "datamatricula": "2024-10-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "95907730713",
+    "datamatricula": "2024-05-27"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "82248127488",
+    "datamatricula": "2024-12-20"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "51536106172",
+    "datamatricula": "2024-04-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "92895725365",
+    "datamatricula": "2025-02-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74394913952",
+    "datamatricula": "2023-02-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "00244061086",
+    "datamatricula": "2025-01-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "37139536654",
+    "datamatricula": "2024-05-03"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "17559652742",
+    "datamatricula": "2025-06-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "83675603282",
+    "datamatricula": "2024-04-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "32590490717",
+    "datamatricula": "2023-07-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "48173459004",
+    "datamatricula": "2023-08-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "15204225753",
+    "datamatricula": "2024-06-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "08964806556",
+    "datamatricula": "2024-05-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "55819812526",
+    "datamatricula": "2023-06-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "19213767771",
+    "datamatricula": "2024-11-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "46576339192",
+    "datamatricula": "2023-07-06"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "76775060208",
+    "datamatricula": "2023-09-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "81766891350",
+    "datamatricula": "2024-12-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "66209482582",
+    "datamatricula": "2024-02-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "54501602710",
+    "datamatricula": "2025-06-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "66000966244",
+    "datamatricula": "2025-07-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86701219562",
+    "datamatricula": "2025-07-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "41990118939",
+    "datamatricula": "2024-12-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "57752129729",
+    "datamatricula": "2025-01-15"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "36435790116",
+    "datamatricula": "2023-07-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "57413639051",
+    "datamatricula": "2025-12-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "64599714139",
+    "datamatricula": "2025-04-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "51105471488",
+    "datamatricula": "2024-01-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "42933304204",
+    "datamatricula": "2025-03-31"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "35424855920",
+    "datamatricula": "2024-06-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "07668692481",
+    "datamatricula": "2025-01-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "04681783806",
+    "datamatricula": "2023-08-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "51113742955",
+    "datamatricula": "2024-06-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "23708060680",
+    "datamatricula": "2023-09-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "13768969931",
+    "datamatricula": "2025-01-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "79014148083",
+    "datamatricula": "2025-01-16"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "67546041032",
+    "datamatricula": "2023-01-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "72099578657",
+    "datamatricula": "2023-01-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "83767404008",
+    "datamatricula": "2023-06-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "78017773085",
+    "datamatricula": "2023-09-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "81228153484",
+    "datamatricula": "2023-11-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "34680358024",
+    "datamatricula": "2023-05-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86348919299",
+    "datamatricula": "2024-04-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "81465978049",
+    "datamatricula": "2023-12-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "13023214072",
+    "datamatricula": "2023-03-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "17703121068",
+    "datamatricula": "2025-01-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "67308867528",
+    "datamatricula": "2023-12-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "23541172152",
+    "datamatricula": "2025-11-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "65316671319",
+    "datamatricula": "2024-02-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "69183592340",
+    "datamatricula": "2023-06-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "24205161597",
+    "datamatricula": "2025-10-22"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "07216578104",
+    "datamatricula": "2025-12-30"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "03176169573",
+    "datamatricula": "2024-08-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "71325057676",
+    "datamatricula": "2024-04-08"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "42701439772",
+    "datamatricula": "2023-03-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "29275150618",
+    "datamatricula": "2024-06-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "66860149678",
+    "datamatricula": "2024-01-31"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "17377149648",
+    "datamatricula": "2024-02-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "31719462040",
+    "datamatricula": "2023-12-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "05616678126",
+    "datamatricula": "2025-01-16"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "02755930970",
+    "datamatricula": "2024-06-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "04143109558",
+    "datamatricula": "2023-04-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "16113044503",
+    "datamatricula": "2024-07-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "61086780670",
+    "datamatricula": "2023-11-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "58890742901",
+    "datamatricula": "2023-01-20"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "34016951159",
+    "datamatricula": "2024-02-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "33775232630",
+    "datamatricula": "2024-10-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "53519677495",
+    "datamatricula": "2023-07-06"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "63765353068",
+    "datamatricula": "2023-07-26"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "51131147199",
+    "datamatricula": "2024-01-02"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "93522690973",
+    "datamatricula": "2023-09-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88338953888",
+    "datamatricula": "2025-06-22"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "77808283437",
+    "datamatricula": "2025-11-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "09046865161",
+    "datamatricula": "2025-12-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "28303144003",
+    "datamatricula": "2024-10-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "40750238409",
+    "datamatricula": "2025-06-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "71101452324",
+    "datamatricula": "2025-02-05"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "18029379831",
+    "datamatricula": "2025-12-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "18246096144",
+    "datamatricula": "2025-08-10"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "19768651128",
+    "datamatricula": "2023-01-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01346894495",
+    "datamatricula": "2025-12-06"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "02229992982",
+    "datamatricula": "2023-01-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "61578990771",
+    "datamatricula": "2025-09-15"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "98673951029",
+    "datamatricula": "2025-05-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "85279200524",
+    "datamatricula": "2024-10-17"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "85756886437",
+    "datamatricula": "2025-03-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "28894485204",
+    "datamatricula": "2025-02-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "70310053799",
+    "datamatricula": "2025-09-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "91524081413",
+    "datamatricula": "2023-09-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "23675517896",
+    "datamatricula": "2024-10-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "23542091989",
+    "datamatricula": "2023-03-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "63233468389",
+    "datamatricula": "2023-12-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "32447279246",
+    "datamatricula": "2025-01-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "58000531209",
+    "datamatricula": "2024-06-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "86729555157",
+    "datamatricula": "2025-04-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "61780282983",
+    "datamatricula": "2023-08-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "15135270942",
+    "datamatricula": "2024-09-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "20020570360",
+    "datamatricula": "2025-10-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "22041363084",
+    "datamatricula": "2024-04-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "88133575418",
+    "datamatricula": "2024-11-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "72452923958",
+    "datamatricula": "2023-07-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "25201303416",
+    "datamatricula": "2024-07-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "23858160045",
+    "datamatricula": "2025-06-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "96495262862",
+    "datamatricula": "2024-04-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "13105985125",
+    "datamatricula": "2024-04-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "78519426720",
+    "datamatricula": "2024-03-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "45413406992",
+    "datamatricula": "2023-05-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "09797112380",
+    "datamatricula": "2024-08-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "45389706197",
+    "datamatricula": "2025-02-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "72932978820",
+    "datamatricula": "2025-12-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "83000525947",
+    "datamatricula": "2025-04-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "11221422211",
+    "datamatricula": "2023-06-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02666338400",
+    "datamatricula": "2023-06-11"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "25462506116",
+    "datamatricula": "2025-07-10"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "92428862809",
+    "datamatricula": "2023-11-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "27860822503",
+    "datamatricula": "2025-02-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "54589040269",
+    "datamatricula": "2025-11-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "98948382694",
+    "datamatricula": "2025-11-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "98085809888",
+    "datamatricula": "2023-07-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "21991219057",
+    "datamatricula": "2025-03-10"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "80143448334",
+    "datamatricula": "2024-04-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "54076321220",
+    "datamatricula": "2024-04-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "38496628775",
+    "datamatricula": "2025-11-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "39139736725",
+    "datamatricula": "2023-09-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "00638005900",
+    "datamatricula": "2023-10-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "19333328023",
+    "datamatricula": "2023-08-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "06842210880",
+    "datamatricula": "2023-02-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "58111993027",
+    "datamatricula": "2024-06-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "22679352576",
+    "datamatricula": "2024-02-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "49033253079",
+    "datamatricula": "2025-03-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88093950816",
+    "datamatricula": "2023-07-24"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "25169533216",
+    "datamatricula": "2025-03-02"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "60109728642",
+    "datamatricula": "2024-10-05"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "00966765250",
+    "datamatricula": "2024-12-12"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "22935816653",
+    "datamatricula": "2025-12-07"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "40656774793",
+    "datamatricula": "2024-07-14"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "48476524411",
+    "datamatricula": "2023-08-11"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "00002522709",
+    "datamatricula": "2023-11-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "80975626774",
+    "datamatricula": "2024-03-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "86401584509",
+    "datamatricula": "2025-01-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "84085375676",
+    "datamatricula": "2023-05-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "67391825072",
+    "datamatricula": "2024-02-06"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "25084800122",
+    "datamatricula": "2024-08-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "53104775309",
+    "datamatricula": "2024-12-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "32689859611",
+    "datamatricula": "2024-01-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "41150197668",
+    "datamatricula": "2025-11-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "68082127354",
+    "datamatricula": "2024-09-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "89098302615",
+    "datamatricula": "2024-11-28"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "11943575833",
+    "datamatricula": "2025-01-07"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "17446887333",
+    "datamatricula": "2023-06-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "73715477343",
+    "datamatricula": "2025-01-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "21285586453",
+    "datamatricula": "2023-04-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "79604168395",
+    "datamatricula": "2024-12-18"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "81691911918",
+    "datamatricula": "2023-11-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "80391565905",
+    "datamatricula": "2025-10-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "04742605435",
+    "datamatricula": "2023-09-23"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "48836764830",
+    "datamatricula": "2023-03-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "91914130145",
+    "datamatricula": "2023-07-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "93014180690",
+    "datamatricula": "2025-11-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "96495080629",
+    "datamatricula": "2024-03-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "72598730251",
+    "datamatricula": "2023-08-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "46844924688",
+    "datamatricula": "2023-02-10"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "27781936776",
+    "datamatricula": "2024-10-15"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "99124268228",
+    "datamatricula": "2023-09-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "89153027171",
+    "datamatricula": "2025-04-27"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "34402877933",
+    "datamatricula": "2024-06-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "84440713003",
+    "datamatricula": "2023-09-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "20487100372",
+    "datamatricula": "2024-02-12"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "95617751456",
+    "datamatricula": "2024-05-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "96760636464",
+    "datamatricula": "2025-04-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "43130635078",
+    "datamatricula": "2023-09-23"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "26267207912",
+    "datamatricula": "2023-01-31"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "75507590952",
+    "datamatricula": "2023-09-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "88860316508",
+    "datamatricula": "2024-02-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "98404696755",
+    "datamatricula": "2023-08-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "43859331214",
+    "datamatricula": "2025-12-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "44056081860",
+    "datamatricula": "2025-07-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "58407871341",
+    "datamatricula": "2023-05-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "60191861911",
+    "datamatricula": "2023-01-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "73770946847",
+    "datamatricula": "2025-08-31"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "90289765643",
+    "datamatricula": "2025-04-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "01580550110",
+    "datamatricula": "2023-02-20"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "71432481668",
+    "datamatricula": "2023-09-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56102837848",
+    "datamatricula": "2025-12-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "57450333885",
+    "datamatricula": "2024-01-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "70407002745",
+    "datamatricula": "2023-07-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "34788037871",
+    "datamatricula": "2024-11-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "86584106595",
+    "datamatricula": "2024-12-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08753193710",
+    "datamatricula": "2023-04-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "48349755617",
+    "datamatricula": "2023-06-16"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "22820656387",
+    "datamatricula": "2023-10-15"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93770550917",
+    "datamatricula": "2024-01-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "53799387601",
+    "datamatricula": "2024-03-11"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "38223262061",
+    "datamatricula": "2024-01-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "28083823040",
+    "datamatricula": "2024-09-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "85456569258",
+    "datamatricula": "2023-04-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "52170186967",
+    "datamatricula": "2024-04-15"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "06436364884",
+    "datamatricula": "2024-12-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "89898810762",
+    "datamatricula": "2025-08-24"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "48202690651",
+    "datamatricula": "2025-02-12"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "02940190681",
+    "datamatricula": "2023-12-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "72387886027",
+    "datamatricula": "2023-04-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "74814649991",
+    "datamatricula": "2024-02-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "76800388655",
+    "datamatricula": "2023-01-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "88197773795",
+    "datamatricula": "2025-07-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "27307604055",
+    "datamatricula": "2025-06-20"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "88070630167",
+    "datamatricula": "2025-12-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "72854298430",
+    "datamatricula": "2023-08-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "92888757280",
+    "datamatricula": "2023-04-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "95652292037",
+    "datamatricula": "2024-12-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "17242104627",
+    "datamatricula": "2025-06-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "82286370164",
+    "datamatricula": "2025-08-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "02120678649",
+    "datamatricula": "2025-03-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "02638679309",
+    "datamatricula": "2024-02-02"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "04475522921",
+    "datamatricula": "2023-05-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "63259396362",
+    "datamatricula": "2025-03-02"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "03845873052",
+    "datamatricula": "2023-11-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "72799855440",
+    "datamatricula": "2025-11-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "44150592003",
+    "datamatricula": "2023-06-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "17525460263",
+    "datamatricula": "2024-03-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "94634927335",
+    "datamatricula": "2025-10-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08667073797",
+    "datamatricula": "2025-06-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "39164339232",
+    "datamatricula": "2023-04-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "37198429836",
+    "datamatricula": "2024-09-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "32820900021",
+    "datamatricula": "2024-06-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "85077537621",
+    "datamatricula": "2023-10-12"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "68292690243",
+    "datamatricula": "2024-08-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "87171346768",
+    "datamatricula": "2024-09-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "16430091005",
+    "datamatricula": "2024-01-05"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "24189105385",
+    "datamatricula": "2024-09-23"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "19356353942",
+    "datamatricula": "2024-01-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "44531180421",
+    "datamatricula": "2023-04-07"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "59886519417",
+    "datamatricula": "2025-06-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "52777498555",
+    "datamatricula": "2025-11-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "62553780599",
+    "datamatricula": "2024-01-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "53469890145",
+    "datamatricula": "2025-11-24"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "79494897912",
+    "datamatricula": "2024-11-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "39358537451",
+    "datamatricula": "2025-06-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "05035350650",
+    "datamatricula": "2025-01-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "48801921572",
+    "datamatricula": "2023-09-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "06520129818",
+    "datamatricula": "2025-02-12"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "14080138093",
+    "datamatricula": "2023-07-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "80765379149",
+    "datamatricula": "2024-10-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "41731239243",
+    "datamatricula": "2025-06-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "55287525888",
+    "datamatricula": "2024-05-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "48025291366",
+    "datamatricula": "2024-06-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "05831645763",
+    "datamatricula": "2023-03-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "49103940748",
+    "datamatricula": "2024-04-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "12682860260",
+    "datamatricula": "2023-05-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86621024367",
+    "datamatricula": "2024-10-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "98129523110",
+    "datamatricula": "2023-07-07"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "28409038811",
+    "datamatricula": "2025-04-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "56726988528",
+    "datamatricula": "2025-12-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "42102157575",
+    "datamatricula": "2025-12-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "25949105880",
+    "datamatricula": "2023-09-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "82637954680",
+    "datamatricula": "2024-10-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "53954622211",
+    "datamatricula": "2024-05-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "27637066621",
+    "datamatricula": "2023-05-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "06590438723",
+    "datamatricula": "2023-05-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "29909857709",
+    "datamatricula": "2023-01-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "49539898795",
+    "datamatricula": "2024-12-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86570061708",
+    "datamatricula": "2024-07-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "67268197458",
+    "datamatricula": "2025-03-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "34100232530",
+    "datamatricula": "2023-11-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "84196452382",
+    "datamatricula": "2025-05-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "20083353855",
+    "datamatricula": "2024-03-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "36803209685",
+    "datamatricula": "2023-04-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "77745588617",
+    "datamatricula": "2023-01-04"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "27746451187",
+    "datamatricula": "2024-06-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "14447291738",
+    "datamatricula": "2023-09-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "19273195869",
+    "datamatricula": "2025-01-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "78977542482",
+    "datamatricula": "2023-11-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "28831917603",
+    "datamatricula": "2024-07-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02185911278",
+    "datamatricula": "2025-10-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "85518763969",
+    "datamatricula": "2025-12-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "56863736014",
+    "datamatricula": "2024-04-05"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "17233471841",
+    "datamatricula": "2024-06-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "08714539756",
+    "datamatricula": "2025-08-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "77997031936",
+    "datamatricula": "2024-04-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "09261922333",
+    "datamatricula": "2025-04-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "54167563346",
+    "datamatricula": "2023-04-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "00741764816",
+    "datamatricula": "2024-08-04"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "75236456954",
+    "datamatricula": "2023-05-02"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "73124935682",
+    "datamatricula": "2024-05-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "73545480540",
+    "datamatricula": "2023-05-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "47190558416",
+    "datamatricula": "2024-03-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "21341993051",
+    "datamatricula": "2025-01-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "03338277924",
+    "datamatricula": "2025-12-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "10658673591",
+    "datamatricula": "2024-11-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "82508552824",
+    "datamatricula": "2025-09-24"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "12864134923",
+    "datamatricula": "2025-05-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "61286415820",
+    "datamatricula": "2024-06-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "54774737043",
+    "datamatricula": "2025-04-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "44443780642",
+    "datamatricula": "2023-01-05"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "95482722421",
+    "datamatricula": "2024-09-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "13176760487",
+    "datamatricula": "2025-03-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "12800049927",
+    "datamatricula": "2024-03-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "84138332798",
+    "datamatricula": "2023-10-27"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "43555509663",
+    "datamatricula": "2023-03-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "42342920537",
+    "datamatricula": "2023-02-10"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "93980774685",
+    "datamatricula": "2025-09-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "70638780384",
+    "datamatricula": "2025-04-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "22201419338",
+    "datamatricula": "2023-12-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "46457457045",
+    "datamatricula": "2025-11-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "46069768520",
+    "datamatricula": "2023-09-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56562018375",
+    "datamatricula": "2024-05-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "18622455786",
+    "datamatricula": "2024-01-28"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "61047122107",
+    "datamatricula": "2023-11-04"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "72860580051",
+    "datamatricula": "2023-01-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "13051767526",
+    "datamatricula": "2023-10-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74668760042",
+    "datamatricula": "2023-10-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "55391704345",
+    "datamatricula": "2023-07-06"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "45378059220",
+    "datamatricula": "2023-05-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "73512596838",
+    "datamatricula": "2024-06-23"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "64364180744",
+    "datamatricula": "2024-11-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "59957165689",
+    "datamatricula": "2025-04-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "20640339910",
+    "datamatricula": "2023-08-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "68404876482",
+    "datamatricula": "2023-02-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "67777994346",
+    "datamatricula": "2023-08-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "96927430824",
+    "datamatricula": "2025-08-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "49724835426",
+    "datamatricula": "2024-12-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "65102452436",
+    "datamatricula": "2023-07-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "46808056735",
+    "datamatricula": "2024-07-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "15329034380",
+    "datamatricula": "2025-03-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "54095497023",
+    "datamatricula": "2025-01-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "59225091804",
+    "datamatricula": "2025-04-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "31082502871",
+    "datamatricula": "2025-11-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "27346787631",
+    "datamatricula": "2024-01-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "32330970044",
+    "datamatricula": "2023-07-14"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "97882579593",
+    "datamatricula": "2024-09-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "64556074012",
+    "datamatricula": "2024-02-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "35557182020",
+    "datamatricula": "2023-09-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "55610787750",
+    "datamatricula": "2024-02-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "47751806081",
+    "datamatricula": "2023-07-03"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "99978818279",
+    "datamatricula": "2023-04-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "35405692714",
+    "datamatricula": "2024-11-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "79005927571",
+    "datamatricula": "2024-08-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "00847172057",
+    "datamatricula": "2025-11-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "54943341461",
+    "datamatricula": "2023-02-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "08640196711",
+    "datamatricula": "2023-02-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "63114710435",
+    "datamatricula": "2024-10-31"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "69354208886",
+    "datamatricula": "2024-06-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "69737674485",
+    "datamatricula": "2024-03-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "23298980147",
+    "datamatricula": "2023-04-15"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "71710022356",
+    "datamatricula": "2023-02-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "63329171860",
+    "datamatricula": "2025-06-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "41337047694",
+    "datamatricula": "2023-07-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "52689505421",
+    "datamatricula": "2024-08-10"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "08555140990",
+    "datamatricula": "2023-07-18"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "69873719839",
+    "datamatricula": "2025-04-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "51181905652",
+    "datamatricula": "2023-05-12"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "06015335601",
+    "datamatricula": "2024-07-31"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "30561320876",
+    "datamatricula": "2025-06-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "88702279860",
+    "datamatricula": "2023-02-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "40417145626",
+    "datamatricula": "2025-06-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "67600253491",
+    "datamatricula": "2025-12-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "60959333881",
+    "datamatricula": "2023-07-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "79000825355",
+    "datamatricula": "2023-06-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "82669363976",
+    "datamatricula": "2024-03-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "20073485760",
+    "datamatricula": "2025-07-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "71590458016",
+    "datamatricula": "2023-04-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "32387667540",
+    "datamatricula": "2024-12-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88195009777",
+    "datamatricula": "2024-10-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "51635079739",
+    "datamatricula": "2025-03-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "93126565234",
+    "datamatricula": "2024-03-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88182845385",
+    "datamatricula": "2025-03-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "37436643658",
+    "datamatricula": "2025-06-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "98753101388",
+    "datamatricula": "2024-04-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "45619756104",
+    "datamatricula": "2024-05-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "13220853809",
+    "datamatricula": "2025-09-04"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43981195928",
+    "datamatricula": "2024-11-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "38443411423",
+    "datamatricula": "2023-06-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "51174418466",
+    "datamatricula": "2025-07-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "69479154871",
+    "datamatricula": "2023-11-03"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "68994577152",
+    "datamatricula": "2023-12-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "74227543008",
+    "datamatricula": "2023-05-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "35935852157",
+    "datamatricula": "2024-06-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "42404723079",
+    "datamatricula": "2024-09-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "07926091133",
+    "datamatricula": "2024-02-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51148924754",
+    "datamatricula": "2025-03-29"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "57920568246",
+    "datamatricula": "2023-12-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43013607112",
+    "datamatricula": "2023-11-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "78947067694",
+    "datamatricula": "2023-05-14"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "48068219795",
+    "datamatricula": "2024-01-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "27406611698",
+    "datamatricula": "2025-07-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "26531237579",
+    "datamatricula": "2023-03-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02893410307",
+    "datamatricula": "2024-06-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "91338764786",
+    "datamatricula": "2023-08-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "86941344817",
+    "datamatricula": "2024-12-28"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "08495026932",
+    "datamatricula": "2025-11-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "50630900332",
+    "datamatricula": "2025-08-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "56886663728",
+    "datamatricula": "2025-11-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "97641030581",
+    "datamatricula": "2024-10-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "68839795501",
+    "datamatricula": "2023-06-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "22143610604",
+    "datamatricula": "2024-07-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "28358053966",
+    "datamatricula": "2023-03-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "42434815729",
+    "datamatricula": "2023-05-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "34384674410",
+    "datamatricula": "2025-11-19"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "39709044890",
+    "datamatricula": "2023-03-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "41559684218",
+    "datamatricula": "2025-09-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "14321012361",
+    "datamatricula": "2023-10-01"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "62462838239",
+    "datamatricula": "2024-06-25"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "92384870616",
+    "datamatricula": "2024-11-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "81411130556",
+    "datamatricula": "2023-07-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "64103888964",
+    "datamatricula": "2023-03-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "41301789472",
+    "datamatricula": "2025-01-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "83863998665",
+    "datamatricula": "2023-04-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "20307805884",
+    "datamatricula": "2024-06-08"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "35918375146",
+    "datamatricula": "2024-02-02"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "44043791591",
+    "datamatricula": "2024-08-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "49801933852",
+    "datamatricula": "2023-12-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "38475973837",
+    "datamatricula": "2024-07-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "60126696614",
+    "datamatricula": "2024-12-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "32039248220",
+    "datamatricula": "2025-04-21"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "19337252042",
+    "datamatricula": "2023-05-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "83301196053",
+    "datamatricula": "2023-12-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "52891989905",
+    "datamatricula": "2023-07-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "94662733987",
+    "datamatricula": "2024-11-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "37317223966",
+    "datamatricula": "2024-12-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "16797448673",
+    "datamatricula": "2025-01-31"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "33500997154",
+    "datamatricula": "2024-08-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "75021792219",
+    "datamatricula": "2024-10-20"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "69932544552",
+    "datamatricula": "2025-12-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "78031685773",
+    "datamatricula": "2024-08-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "51324650315",
+    "datamatricula": "2023-11-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "50446854613",
+    "datamatricula": "2023-04-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "74485581559",
+    "datamatricula": "2024-09-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "20094623693",
+    "datamatricula": "2024-12-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "99437131158",
+    "datamatricula": "2025-11-27"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "06725701643",
+    "datamatricula": "2024-09-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "65681947586",
+    "datamatricula": "2024-04-15"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "05376959149",
+    "datamatricula": "2024-05-24"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "30352776713",
+    "datamatricula": "2024-10-31"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "82137939778",
+    "datamatricula": "2024-02-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "31432107591",
+    "datamatricula": "2025-10-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "73550904700",
+    "datamatricula": "2023-06-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "28551727375",
+    "datamatricula": "2025-02-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "06555157390",
+    "datamatricula": "2024-05-31"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "20179496739",
+    "datamatricula": "2024-04-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "54340348962",
+    "datamatricula": "2024-03-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "60077018349",
+    "datamatricula": "2023-05-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43370083557",
+    "datamatricula": "2024-07-08"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "30872394722",
+    "datamatricula": "2023-05-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "30423063390",
+    "datamatricula": "2023-01-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "38788449133",
+    "datamatricula": "2024-10-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "25796241328",
+    "datamatricula": "2023-09-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "49236396230",
+    "datamatricula": "2024-01-13"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "52353938559",
+    "datamatricula": "2024-05-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "21856752523",
+    "datamatricula": "2024-11-25"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "99354196716",
+    "datamatricula": "2025-04-10"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "05534486024",
+    "datamatricula": "2025-07-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "21607625733",
+    "datamatricula": "2023-09-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "13330586680",
+    "datamatricula": "2024-11-17"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "84937567612",
+    "datamatricula": "2023-03-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "02114813090",
+    "datamatricula": "2024-08-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "07501994544",
+    "datamatricula": "2023-07-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "82604676933",
+    "datamatricula": "2023-01-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "20065476937",
+    "datamatricula": "2023-06-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "41772572610",
+    "datamatricula": "2025-06-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "15573535211",
+    "datamatricula": "2024-10-17"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "12979992206",
+    "datamatricula": "2024-06-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "42976715136",
+    "datamatricula": "2023-11-27"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "54738495260",
+    "datamatricula": "2025-08-03"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "92331745043",
+    "datamatricula": "2025-11-27"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "40806193105",
+    "datamatricula": "2025-02-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "16150816946",
+    "datamatricula": "2023-04-01"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "77537986082",
+    "datamatricula": "2023-11-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "31735046518",
+    "datamatricula": "2024-11-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "89363817067",
+    "datamatricula": "2024-04-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "98765782750",
+    "datamatricula": "2025-07-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "43526760764",
+    "datamatricula": "2025-10-31"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "90017508882",
+    "datamatricula": "2023-04-01"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "11897469589",
+    "datamatricula": "2024-12-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "34743979515",
+    "datamatricula": "2023-01-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86365803920",
+    "datamatricula": "2025-03-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "48979685296",
+    "datamatricula": "2024-02-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "56126994477",
+    "datamatricula": "2023-05-18"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "88535370343",
+    "datamatricula": "2024-08-14"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "34882867417",
+    "datamatricula": "2023-10-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "71051113200",
+    "datamatricula": "2024-06-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "13487765325",
+    "datamatricula": "2023-11-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "77359421138",
+    "datamatricula": "2024-01-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "86202891100",
+    "datamatricula": "2025-03-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "04715956899",
+    "datamatricula": "2025-02-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "36329633791",
+    "datamatricula": "2025-02-21"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "98500978094",
+    "datamatricula": "2023-03-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56881970199",
+    "datamatricula": "2025-09-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "73420479822",
+    "datamatricula": "2025-01-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "40280141473",
+    "datamatricula": "2023-06-24"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "60134459663",
+    "datamatricula": "2025-10-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "34518133754",
+    "datamatricula": "2025-09-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88499661437",
+    "datamatricula": "2024-04-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "13394650803",
+    "datamatricula": "2025-09-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "61929400460",
+    "datamatricula": "2023-08-17"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "60788449870",
+    "datamatricula": "2023-08-20"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74987680705",
+    "datamatricula": "2024-05-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "50444683387",
+    "datamatricula": "2025-03-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "65042363863",
+    "datamatricula": "2024-10-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "97671196682",
+    "datamatricula": "2024-08-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "81416327916",
+    "datamatricula": "2025-12-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "76530715403",
+    "datamatricula": "2024-01-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "28351638337",
+    "datamatricula": "2024-10-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "82147218195",
+    "datamatricula": "2025-07-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "53605616841",
+    "datamatricula": "2023-06-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "81860380460",
+    "datamatricula": "2023-04-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "79912144433",
+    "datamatricula": "2025-02-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "86057332981",
+    "datamatricula": "2023-02-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "32950881862",
+    "datamatricula": "2024-05-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "05839198010",
+    "datamatricula": "2023-08-26"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "38214267086",
+    "datamatricula": "2023-02-19"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "54124460054",
+    "datamatricula": "2024-09-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "52167826299",
+    "datamatricula": "2023-04-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "42035925640",
+    "datamatricula": "2023-05-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "77624747038",
+    "datamatricula": "2025-09-24"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "76303977527",
+    "datamatricula": "2024-04-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "14024903483",
+    "datamatricula": "2024-12-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "30769011938",
+    "datamatricula": "2023-07-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "47612988592",
+    "datamatricula": "2023-12-13"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "50157889766",
+    "datamatricula": "2023-05-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "59979699011",
+    "datamatricula": "2023-10-11"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "38101541134",
+    "datamatricula": "2023-10-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "81353375341",
+    "datamatricula": "2023-03-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "85854867285",
+    "datamatricula": "2024-02-07"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "81888716289",
+    "datamatricula": "2023-01-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "61059001651",
+    "datamatricula": "2024-03-26"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "20267370655",
+    "datamatricula": "2023-06-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "74222027070",
+    "datamatricula": "2025-09-25"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "92705339829",
+    "datamatricula": "2023-09-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "01845168519",
+    "datamatricula": "2025-02-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "17306131052",
+    "datamatricula": "2024-07-10"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "96663388877",
+    "datamatricula": "2023-06-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "58964418144",
+    "datamatricula": "2024-05-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "23992191985",
+    "datamatricula": "2023-11-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02695439773",
+    "datamatricula": "2024-06-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "80976268524",
+    "datamatricula": "2023-08-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "35141281810",
+    "datamatricula": "2024-07-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "94077195063",
+    "datamatricula": "2023-02-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "23435682261",
+    "datamatricula": "2023-08-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "88839951289",
+    "datamatricula": "2024-11-16"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "55853048855",
+    "datamatricula": "2024-04-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "84455647198",
+    "datamatricula": "2024-08-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "87904572099",
+    "datamatricula": "2024-10-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "78299115813",
+    "datamatricula": "2024-10-10"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "98471962115",
+    "datamatricula": "2024-01-09"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "71558000682",
+    "datamatricula": "2024-10-16"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "64683662453",
+    "datamatricula": "2023-05-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "45187668572",
+    "datamatricula": "2023-01-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "02051975199",
+    "datamatricula": "2024-06-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "20496989895",
+    "datamatricula": "2023-07-28"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "07069236067",
+    "datamatricula": "2023-06-27"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "30177136727",
+    "datamatricula": "2023-03-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "71872352878",
+    "datamatricula": "2023-09-20"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "70791152650",
+    "datamatricula": "2025-11-09"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "96571485659",
+    "datamatricula": "2023-11-22"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "16145549450",
+    "datamatricula": "2025-05-06"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "65905128995",
+    "datamatricula": "2023-12-01"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "89804405045",
+    "datamatricula": "2023-02-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "56074648542",
+    "datamatricula": "2025-06-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "18520312730",
+    "datamatricula": "2023-08-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02980618729",
+    "datamatricula": "2023-04-08"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "17555987548",
+    "datamatricula": "2023-09-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "13304838519",
+    "datamatricula": "2023-03-03"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "85408470037",
+    "datamatricula": "2024-09-19"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "94679259873",
+    "datamatricula": "2024-08-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "59298806472",
+    "datamatricula": "2023-07-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "02846736664",
+    "datamatricula": "2024-03-30"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "80131513120",
+    "datamatricula": "2023-12-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "06990144485",
+    "datamatricula": "2024-07-11"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "68103135843",
+    "datamatricula": "2025-08-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "36351884127",
+    "datamatricula": "2024-12-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "41411551494",
+    "datamatricula": "2023-04-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "94354667897",
+    "datamatricula": "2025-04-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "26158931120",
+    "datamatricula": "2025-09-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "59853239226",
+    "datamatricula": "2024-05-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "42569966721",
+    "datamatricula": "2025-06-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "17698994848",
+    "datamatricula": "2024-08-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "14956758718",
+    "datamatricula": "2025-08-03"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "92749848706",
+    "datamatricula": "2024-12-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "04791963172",
+    "datamatricula": "2024-01-27"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86119369045",
+    "datamatricula": "2023-07-30"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "50011817842",
+    "datamatricula": "2025-04-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "17971352551",
+    "datamatricula": "2023-07-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "73244177812",
+    "datamatricula": "2024-11-14"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "11424336023",
+    "datamatricula": "2025-12-12"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "96269526491",
+    "datamatricula": "2023-12-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "50952613497",
+    "datamatricula": "2024-01-10"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "31595160469",
+    "datamatricula": "2024-02-15"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "88973946786",
+    "datamatricula": "2023-01-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "75490110716",
+    "datamatricula": "2024-06-28"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "05294307916",
+    "datamatricula": "2025-02-10"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "75671977910",
+    "datamatricula": "2024-08-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "12395103735",
+    "datamatricula": "2023-03-11"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "81760408480",
+    "datamatricula": "2024-11-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "22223690581",
+    "datamatricula": "2024-04-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "33483032079",
+    "datamatricula": "2023-02-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "85566813303",
+    "datamatricula": "2023-07-30"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "43583470576",
+    "datamatricula": "2024-01-16"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "12423005572",
+    "datamatricula": "2024-01-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "38247022413",
+    "datamatricula": "2024-08-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01824283065",
+    "datamatricula": "2024-04-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "96371587664",
+    "datamatricula": "2024-07-24"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "61250056683",
+    "datamatricula": "2025-03-23"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "93372012584",
+    "datamatricula": "2025-09-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "23334087585",
+    "datamatricula": "2025-09-30"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "65402018002",
+    "datamatricula": "2023-09-24"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "88800327068",
+    "datamatricula": "2023-05-20"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "50083954751",
+    "datamatricula": "2025-02-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "76772433263",
+    "datamatricula": "2024-03-07"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "97049357799",
+    "datamatricula": "2023-11-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "85841596619",
+    "datamatricula": "2024-08-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "74227011892",
+    "datamatricula": "2025-10-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "27522070949",
+    "datamatricula": "2023-09-18"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02222906892",
+    "datamatricula": "2023-08-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "97429056718",
+    "datamatricula": "2025-05-20"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "27225034832",
+    "datamatricula": "2025-12-16"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74942910900",
+    "datamatricula": "2025-08-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "62176632098",
+    "datamatricula": "2023-07-26"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "70464110363",
+    "datamatricula": "2025-03-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "51659582738",
+    "datamatricula": "2024-01-12"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "62163375545",
+    "datamatricula": "2025-03-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "17508699969",
+    "datamatricula": "2023-03-07"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "54300424857",
+    "datamatricula": "2025-10-14"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88585573274",
+    "datamatricula": "2025-11-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "36931219970",
+    "datamatricula": "2024-11-17"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "57285088324",
+    "datamatricula": "2025-07-31"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "57398174658",
+    "datamatricula": "2023-01-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "67122123844",
+    "datamatricula": "2023-10-13"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "64550456021",
+    "datamatricula": "2025-07-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "78214396517",
+    "datamatricula": "2024-04-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "17807398041",
+    "datamatricula": "2024-08-07"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "10355998545",
+    "datamatricula": "2024-12-13"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "56030233965",
+    "datamatricula": "2025-02-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "60313163271",
+    "datamatricula": "2024-02-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "48790406182",
+    "datamatricula": "2023-06-19"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74639633475",
+    "datamatricula": "2024-02-16"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51294290701",
+    "datamatricula": "2023-10-23"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "73240648306",
+    "datamatricula": "2024-02-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86381216854",
+    "datamatricula": "2023-03-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "65010975606",
+    "datamatricula": "2024-05-15"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "69048663897",
+    "datamatricula": "2023-07-05"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "01296710754",
+    "datamatricula": "2025-05-23"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "90565594165",
+    "datamatricula": "2025-05-23"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "17826049409",
+    "datamatricula": "2023-05-11"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "57731414492",
+    "datamatricula": "2025-04-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "58020598115",
+    "datamatricula": "2024-03-31"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "52628442604",
+    "datamatricula": "2023-10-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "66018700377",
+    "datamatricula": "2025-05-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "92927402504",
+    "datamatricula": "2023-11-07"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "66126991412",
+    "datamatricula": "2025-01-02"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "00569595565",
+    "datamatricula": "2025-04-29"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "83172184211",
+    "datamatricula": "2024-05-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "75479951003",
+    "datamatricula": "2023-11-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "76438461655",
+    "datamatricula": "2025-09-20"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "60925728585",
+    "datamatricula": "2025-11-18"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93663883415",
+    "datamatricula": "2025-05-25"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "83291614157",
+    "datamatricula": "2024-01-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "09181648111",
+    "datamatricula": "2024-11-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "65110806326",
+    "datamatricula": "2023-06-06"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "60689737673",
+    "datamatricula": "2023-08-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "53887642258",
+    "datamatricula": "2023-08-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "60157922508",
+    "datamatricula": "2024-09-01"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "42146352995",
+    "datamatricula": "2024-04-11"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "16538352489",
+    "datamatricula": "2023-12-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "45907899638",
+    "datamatricula": "2024-12-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "55209859366",
+    "datamatricula": "2024-10-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "26023301569",
+    "datamatricula": "2025-09-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "67617945212",
+    "datamatricula": "2025-10-24"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "24582313770",
+    "datamatricula": "2024-10-25"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "16558580540",
+    "datamatricula": "2025-12-12"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "46139497841",
+    "datamatricula": "2024-07-11"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "28792188087",
+    "datamatricula": "2023-10-10"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "68524552216",
+    "datamatricula": "2023-08-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "27703283475",
+    "datamatricula": "2025-12-20"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "06057888364",
+    "datamatricula": "2023-10-06"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "28416321057",
+    "datamatricula": "2023-11-30"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "97858130397",
+    "datamatricula": "2024-07-18"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "13158938292",
+    "datamatricula": "2023-05-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "86857366110",
+    "datamatricula": "2023-09-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "13723656441",
+    "datamatricula": "2024-04-10"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "71195468695",
+    "datamatricula": "2025-07-27"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "38217045187",
+    "datamatricula": "2023-07-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "76698270461",
+    "datamatricula": "2024-12-05"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "58193284775",
+    "datamatricula": "2025-06-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "12494838744",
+    "datamatricula": "2023-01-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "60744245782",
+    "datamatricula": "2024-05-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "36314810998",
+    "datamatricula": "2023-02-22"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "75658710602",
+    "datamatricula": "2023-07-31"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "26657600966",
+    "datamatricula": "2024-02-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "05937972182",
+    "datamatricula": "2025-05-15"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "09286942436",
+    "datamatricula": "2024-08-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "51243869564",
+    "datamatricula": "2023-10-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "50609306416",
+    "datamatricula": "2025-03-26"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "64325913170",
+    "datamatricula": "2023-03-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "17224428602",
+    "datamatricula": "2024-02-05"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "45707159845",
+    "datamatricula": "2023-12-02"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "61813392270",
+    "datamatricula": "2025-05-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "61484531353",
+    "datamatricula": "2024-08-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "64457998039",
+    "datamatricula": "2025-06-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "90707742864",
+    "datamatricula": "2023-06-06"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "67684495142",
+    "datamatricula": "2024-09-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "88098881971",
+    "datamatricula": "2023-11-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "12441909402",
+    "datamatricula": "2024-07-31"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "65825273484",
+    "datamatricula": "2025-03-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51601818891",
+    "datamatricula": "2024-03-30"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "17317400071",
+    "datamatricula": "2025-12-04"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "15869138003",
+    "datamatricula": "2023-11-28"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "26822965452",
+    "datamatricula": "2025-08-01"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "26397014588",
+    "datamatricula": "2025-03-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "15777891828",
+    "datamatricula": "2023-01-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "78132508573",
+    "datamatricula": "2023-10-22"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "84084864223",
+    "datamatricula": "2024-03-21"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "07406762094",
+    "datamatricula": "2025-11-16"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "50431871711",
+    "datamatricula": "2024-05-24"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "98438961308",
+    "datamatricula": "2023-11-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "27810911007",
+    "datamatricula": "2025-04-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "58253499221",
+    "datamatricula": "2024-05-07"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "40126784410",
+    "datamatricula": "2023-01-24"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "22751228753",
+    "datamatricula": "2024-04-04"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "23349268487",
+    "datamatricula": "2025-03-19"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "43085861010",
+    "datamatricula": "2023-03-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "40352547317",
+    "datamatricula": "2025-11-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "33089345452",
+    "datamatricula": "2024-06-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93617773036",
+    "datamatricula": "2025-08-24"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "37185335202",
+    "datamatricula": "2024-05-02"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "07564906917",
+    "datamatricula": "2024-04-24"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "08866849449",
+    "datamatricula": "2025-11-08"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "42935393001",
+    "datamatricula": "2024-01-29"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "51711040391",
+    "datamatricula": "2025-10-20"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "02227303081",
+    "datamatricula": "2025-11-20"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "91378460030",
+    "datamatricula": "2024-05-06"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "97262234934",
+    "datamatricula": "2023-07-20"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "26597145291",
+    "datamatricula": "2023-09-15"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "08716919765",
+    "datamatricula": "2023-07-02"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "69446407381",
+    "datamatricula": "2025-10-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "95028600019",
+    "datamatricula": "2025-10-21"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "09275969596",
+    "datamatricula": "2024-09-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "74466215838",
+    "datamatricula": "2023-05-20"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "05809127751",
+    "datamatricula": "2025-02-07"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56404333206",
+    "datamatricula": "2023-05-31"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "00060503631",
+    "datamatricula": "2024-05-23"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "36066901255",
+    "datamatricula": "2023-12-28"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "65205363639",
+    "datamatricula": "2025-01-14"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "21657037363",
+    "datamatricula": "2023-05-04"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "75518890357",
+    "datamatricula": "2023-09-11"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "73575424180",
+    "datamatricula": "2024-05-01"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "18936151166",
+    "datamatricula": "2023-09-13"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "46526688896",
+    "datamatricula": "2024-08-29"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "87010400664",
+    "datamatricula": "2023-06-10"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "50725426098",
+    "datamatricula": "2023-07-26"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "18050462103",
+    "datamatricula": "2023-07-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "62965085728",
+    "datamatricula": "2024-09-06"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "22431606044",
+    "datamatricula": "2024-07-05"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "56585031911",
+    "datamatricula": "2024-06-21"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "66972781952",
+    "datamatricula": "2025-10-22"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "94799908211",
+    "datamatricula": "2024-11-26"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "70122452776",
+    "datamatricula": "2023-08-23"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "73314069417",
+    "datamatricula": "2023-12-12"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "78882042594",
+    "datamatricula": "2024-11-15"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "56173692125",
+    "datamatricula": "2025-12-04"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "36754776317",
+    "datamatricula": "2025-02-20"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "79201668597",
+    "datamatricula": "2025-05-01"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "05278644366",
+    "datamatricula": "2023-12-03"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "62238694593",
+    "datamatricula": "2024-02-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "72088866755",
+    "datamatricula": "2024-11-02"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "65227479834",
+    "datamatricula": "2024-07-29"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "95075031584",
+    "datamatricula": "2025-10-05"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "82504019663",
+    "datamatricula": "2024-04-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "74862148563",
+    "datamatricula": "2025-04-28"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "62168419131",
+    "datamatricula": "2023-01-25"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "52927978010",
+    "datamatricula": "2025-10-17"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "46083534473",
+    "datamatricula": "2023-01-12"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "68461711446",
+    "datamatricula": "2024-02-18"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "75882642688",
+    "datamatricula": "2023-02-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "45298595067",
+    "datamatricula": "2024-12-26"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "13165189804",
+    "datamatricula": "2025-06-25"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "58035332366",
+    "datamatricula": "2025-02-06"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "45766563771",
+    "datamatricula": "2023-09-27"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "94778774078",
+    "datamatricula": "2025-09-11"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "93064385669",
+    "datamatricula": "2024-03-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "12544600791",
+    "datamatricula": "2025-05-25"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "82596710439",
+    "datamatricula": "2024-06-28"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "74784726860",
+    "datamatricula": "2024-12-04"
+  },
+  {
+    "xid_curso": 2,
+    "xid_cpf": "79047602912",
+    "datamatricula": "2025-10-13"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "70861480020",
+    "datamatricula": "2024-08-20"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "30168413416",
+    "datamatricula": "2024-04-09"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "40152782172",
+    "datamatricula": "2024-05-09"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "31582893203",
+    "datamatricula": "2023-10-14"
+  },
+  {
+    "xid_curso": 3,
+    "xid_cpf": "24420485084",
+    "datamatricula": "2023-02-18"
+  },
+  {
+    "xid_curso": 1,
+    "xid_cpf": "54620747430",
+    "datamatricula": "2023-08-13"
+  },
+  {
+    "xid_curso": 5,
+    "xid_cpf": "44227311795",
+    "datamatricula": "2023-10-11"
+  },
+  {
+    "xid_curso": 4,
+    "xid_cpf": "09906295894",
+    "datamatricula": "2024-06-29"
+  }
+]

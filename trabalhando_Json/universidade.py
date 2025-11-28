@@ -7,6 +7,7 @@
 import pandas as pd 
 import json 
 from sqlalchemy import create_engine, text
+from inserir_alunos_faltantes import inserir_alunos_faltantes
 
 # Configuração do banco de dados
 db_config = {
@@ -27,6 +28,8 @@ print("conexão bem sucedida.")
 
 #ler o arquivo alunos.json
 df = pd.read_json("alunos.json")
+df = df.rename(columns={"cpf": "xid_cpf"})
+
 
 #inserir no banco
 #df.to_sql("aluno", con=engine, if_exists='append', index=False, chunksize=1000)
@@ -38,11 +41,33 @@ with engine.begin() as conn:
         conn.execute(
             text("""
                 INSERT INTO academic.aluno (cpf, nome, datanascimento)
-                VALUES (:cpf, :nome, :datanascimento)
+                VALUES (:xid_cpf, :nome, :datanascimento)
                 ON CONFLICT (cpf) DO UPDATE
                 SET nome = EXCLUDED.nome,
                     datanascimento = EXCLUDED.datanascimento;
             """),
-            {"cpf": row["CPF"], "nome": row["nome"], "datanascimento": row["datanascimento"]}
+            {"xid_cpf": row["xid_cpf"], "nome": row["nome"], "datanascimento": row["datanascimento"]}
         )
 print(f"DADOS INSERIDO COM SUCESSO E ATUALIZADO.")
+
+
+# CPFs do JSON
+df_matriculas = pd.read_json("curso_aluno.json")
+df_matriculas.columns = ["xid_curso", "xid_cpf", "datamatricula"]
+cpfs_json = set(df_matriculas["xid_cpf"].astype(int))
+
+# CPFs existentes no banco
+sql = text("SELECT cpf FROM academic.aluno")
+with engine.connect() as conn:
+    cpfs_bd = set(pd.read_sql(sql, conn)["cpf"].astype(int))
+
+# CPFs faltantes
+cpfs_faltantes = cpfs_json - cpfs_bd
+
+print("TOTAL DE CPFs QUE EXISTEM NO JSON E NÃO EXISTEM NA TABELA aluno:")
+print(len(cpfs_faltantes))
+print("LISTA DOS CPFs FALTANTES:")
+print(cpfs_faltantes)
+
+
+inserir_alunos_faltantes(engine, cpfs_faltantes)
