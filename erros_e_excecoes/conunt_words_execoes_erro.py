@@ -14,6 +14,9 @@ def count_words(filename):
     except FileExistsError:
         msg = "Não foi possivel abrir o arquio" + filename
         print(msg)
+    except:
+        msg = "erro na operação do arquivo."
+        print(msg)
     else:
         words = contents.split()
         num_words = len(words)

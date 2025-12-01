@@ -77,3 +77,5 @@ id_do_curso = int(input("Digite o Curso pelo ID: 1,2,3 "))
 alunos = verificar_alunos_em_curso(engine, id_do_curso)
 for aluno in alunos:
     print(f"Curso: {aluno.curso_nome}, CPF: {aluno.cpf}, Aluno: {aluno.aluno_nome}")
+    
+    
