@@ -3,11 +3,11 @@
 #Crie uma rotina que leia o arquivo aunos.json, carregue.os em uma estrutura de dados do pandas e inseira.os na tabela Alunos do banco de dados.
 #Os alunos que já existerem na tabela deverão, então, ser atulizados.
 
-
-import pandas as pd 
 import json 
-from sqlalchemy import create_engine, text
+import pandas as pd
+from sqlalchemy import create_engine, null, text
 from inserir_alunos_faltantes import inserir_alunos_faltantes
+from delete_aluno import deletar_alunos, verificar_alunos_em_curso
 
 # Configuração do banco de dados
 db_config = {
@@ -71,3 +71,9 @@ print(cpfs_faltantes)
 
 
 inserir_alunos_faltantes(engine, cpfs_faltantes)
+deletar_alunos(engine)
+# Exemplo de chamada
+id_do_curso = int(input("Digite o Curso pelo ID: 1,2,3 "))
+alunos = verificar_alunos_em_curso(engine, id_do_curso)
+for aluno in alunos:
+    print(f"Curso: {aluno.curso_nome}, CPF: {aluno.cpf}, Aluno: {aluno.aluno_nome}")

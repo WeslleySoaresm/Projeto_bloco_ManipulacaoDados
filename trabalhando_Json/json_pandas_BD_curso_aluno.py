@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 import json 
 from sqlalchemy import create_engine, text
 from universidade import *
@@ -22,6 +22,8 @@ print("Conexão bem sucedida.")
 
 # Ler JSON no dataframe
 df = pd.read_json("curso_aluno.json")
+
+#Garantir a correspondencia entre as colunas do dataFrame e do BD
 df.columns = ["xid_curso", "xid_cpf", "datamatricula"]
 
 
